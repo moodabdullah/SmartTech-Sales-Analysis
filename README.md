@@ -1,53 +1,56 @@
 SmartTech Sales Performance Analysis
-Project Overview
-This project analyzes synthetic retail sales data for SmartTech, a fictional company, using Microsoft Excel.
 
-The goal is to evaluate sales performance, identify profitable products and regions, and provide data-driven business recommendations.
+Project Overview
+
+This project analyzes synthetic retail sales data for SmartTech, a fictional company, using Microsoft Excel. The objective is to evaluate sales performance, compare product and regional profitability, examine monthly trends, and develop data-informed recommendations.
 
 Tools and Skills
-Microsoft Excel
-PivotTables and PivotCharts
-Excel formulas and KPIs
-Data visualization
-Business insights and recommendations
+
+● Microsoft Excel
+
+● PivotTables and PivotCharts
+
+● Formulas and KPI calculations
+
+● Data visualization and dashboard design
+
+● Business analysis and recommendations
+
 Dashboard Preview
+
+![SmartTech Dashboard](./SmartTech_Dashboard.png)
+
+
 Key Performance Indicators
-Metric
 
-Result
-
-Total Revenue
-
-SAR 396,210
-
-Total Profit
-
-SAR 103,850
-
-Profit Margin
-
-26.21%
-
-Number of Orders
-
-120
-
-Average Order Value
-
-SAR 3,301.75
+|Metric                   |Result      |
+|-------------------------|-----------:|
+|Total Revenue            |SAR 396,210 |
+|Total Profit             |SAR 103,850 |
+|Profit Margin            |26.21%      |
+|Number of Orders         |120         |
+|Average Order Value (AOV)|SAR 3,301.75|
 
 Key Findings
-Product Performance: Laptop generated the highest revenue (SAR 226,800) and gross profit (SAR 46,200). Headphones achieved the highest gross profit margin at 39.58%.
 
-Regional Performance: Riyadh generated the highest regional revenue (SAR 147,670), while Dammam achieved the highest profit margin at 28.06%.
+Product performance: Laptop generated the highest revenue (SAR 226,800) and gross profit (SAR 46,200). Headphones achieved the highest profit margin (39.58%), compared with Laptop’s 20.37%.
 
-Monthly Performance: May recorded the highest monthly revenue (SAR 72,890). Revenue declined by approximately 18.51% in June.
+Regional performance: Riyadh generated the highest regional revenue (SAR 147,670) and gross profit (SAR 36,970). Dammam recorded the highest regional profit margin (28.06%).
+
+Monthly performance: May had the highest revenue (SAR 72,890), followed by a decline of approximately 18.51% in June. The data alone does not establish the cause.
 
 Business Recommendations
-Review Laptop procurement costs, pricing, and discount strategies to identify opportunities for improving profitability.
-Investigate the decline in June revenue and assess Headphones sales opportunities based on customer demand and regional performance.
+
+1. Review Laptop procurement costs, pricing, and discount policies to investigate opportunities to improve its margin while monitoring demand.
+
+2. Investigate June’s revenue decline by product and region, and evaluate potential Headphones promotions only after assessing customer demand and expected profitability.
+
 Project Files
-Data_Analyst_Project_01_Sales.xlsx — Excel workbook containing the dataset, calculations, PivotTables, and dashboard.
-SmartTech_Dashboard.png — Dashboard preview.
+
+● Excel workbook — source data, formulas, PivotTables, and dashboard.
+
+● Dashboard image — preview of the Excel dashboard.
+
 Data Disclaimer
-This project uses synthetic data for educational and portfolio purposes. SmartTech is a fictional company, and the findings do not represent actual business performance.
+
+This is an educational portfolio project using synthetic data. SmartTech is a fictional company, and the findings do not reflect real business performance.
