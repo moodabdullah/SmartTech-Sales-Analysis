@@ -18,7 +18,7 @@ Tools and Skills
 
 Dashboard Preview
 
-![SmartTech_Dashboard](https://github.com/user-attachments/assets/7d6ca84c-930a-4d6c-b2a8-4f28079e7ce7)
+[View SmartTech Dashboard (PDF)](Data_Analyst_Project_01_Sales.pdf)
 
 Key Performance Indicators
 
