@@ -18,8 +18,7 @@ Tools and Skills
 
 Dashboard Preview
 
-![SmartTech Dashboard](./SmartTech_Dashboard.png)
-
+![SmartTech_Dashboard](https://github.com/user-attachments/assets/7d6ca84c-930a-4d6c-b2a8-4f28079e7ce7)
 
 Key Performance Indicators
 
